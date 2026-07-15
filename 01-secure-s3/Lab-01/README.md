@@ -70,9 +70,9 @@ Example Output:
 
 ```json
 {
-    "UserId": "AIDAYZYM643LPELTKQUR2",
-    "Account": "605080708822",
-    "Arn": "arn:aws:iam::605080708822:user/Nandhu"
+    "UserId": "*******************",
+    "Account": "*******************",
+    "Arn": "arn:aws:iam::5686564556:user/Nandhu"
 }
 ```
 
