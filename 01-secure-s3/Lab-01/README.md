@@ -54,7 +54,7 @@ aws configure
 Example:
 
 ```text
-AWS Access Key ID: ****************
+AWS Access Key ID: ***************
 AWS Secret Access Key: ****************
 Default region name: ap-south-1
 Default output format: json
